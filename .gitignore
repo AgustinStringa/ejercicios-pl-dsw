@@ -1,1 +1,5 @@
 notas/
+*node_modules
+*dist
+04-api-express/
+04-api-express
