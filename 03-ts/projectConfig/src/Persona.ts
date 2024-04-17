@@ -1,4 +1,4 @@
-export class Persona {
+export default class Persona {
   public firstName: string;
   public lastName: string;
   public age: number;
@@ -12,3 +12,5 @@ export class Persona {
     this.age = ag;
   }
 }
+
+// module.export = { Persona };
